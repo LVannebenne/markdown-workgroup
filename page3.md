@@ -1,4 +1,4 @@
-[Table des matières](tableMatières.md)|[Historique](page1.md #Petite Histoire de Markdown)|[Cas d'utilisation](page1.md #Utilisation)|[Syntaxe](page2.md)|[Format](page2.md #FORMAT)|[Listes](page2.md #Des listes)|[Titres](page3.md #Les titres)|[Tableaux](page3.md #Les tableaux)|[Liens](page4.md #Liens)|[Images](page4.md #Images)|
+[Table des matières](tableMatières.md)|[Historique](page1.md#Petite Histoire de Markdown)|[Cas d'utilisation](page1.md#Utilisation)|[Syntaxe](page2.md)|[Format](page2.md#FORMAT)|[Listes](page2.md#Des listes)|[Titres](page3.md#Les titres)|[Tableaux](page3.md#Les tableaux)|[Liens](page4.md#Liens)|[Images](page4.md#Images)|    
 ### Les titres
 Il existe deux syntaxes différentes pour les titres :
 * La méthode par **soulignement**

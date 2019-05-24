@@ -93,19 +93,16 @@ Pour créer une liste non ordonnée, ajoutez des tirets (-), des astérisques (*
 - Premier article	
 - Deuxième article
 - Troisième article
-- Quatrième article```
-
-```* Premier article
-* Deuxième article
-* Troisième article
-* Quatrième article```
+- Quatrième article
 
 * Premier article
 * Deuxième article
 * Troisième article
 * Quatrième article
-
-
+* Premier article
+* Deuxième article
+* Troisième article
+* Quatrième article
 
 Liste imbriquée
 
@@ -118,7 +115,6 @@ Liste imbriquée
     - Article en retrait
     - Article en retrait
 - Quatrième article
-
 
 - Premier article
 - Deuxième article

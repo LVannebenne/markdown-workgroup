@@ -4,18 +4,6 @@ page2
 
 Il existe deux syntaxes pour les titres. Le résultat sera le même quelque soit la méthode employée. Essayez simplement d'en choisir une et de vous y tenir afin de rester cohérent.
 
-#### les titres.
-
-Il existe plusieurs niveaux hiéarchique de titres allant de 1 à l'infini mais on se limite généralement à 6 niveaux, H1 étant le titre le plus important.
-
-##### Méthode de déclaration d'un titre.
-
-Première méthode, on le fait précéder du nombre de # correspondant au niveau du titre que l'on souhaite afficher
-
- ```### Title 1, #### Titre 4.```
-
-Deuxième méthode, le balisage <> ```<h1>Titre 1</h1> <h4>Titre  4</h4>```
-
 
 #### Les paragraphes
 
@@ -54,17 +42,37 @@ Pour créer une liste ordonnée, ajoutez des éléments de ligne avec des nombre
 
 Pour créer une liste non ordonnée, ajoutez des tirets (-), des astérisques (*) ou des signes plus (+) devant les éléments de campagne. Indenter un ou plusieurs éléments pour créer une liste imbriquée.
 
-- Premier article	
+
+
+```- Premier article	
 - Deuxième article
-- Troisième item
-- Quatrième item
+- Troisième article
+- Quatrième article```
+
+```* Premier article
+* Deuxième article
+* Troisième article
+* Quatrième article```
 
 * Premier article
-* Deuxième élément
+* Deuxième article
 * Troisième article
 * Quatrième article
 
+
+
 Liste imbriquée
+
+* Premier niveau de cette liste.
+* Pour créer un second niveau, ajoutez deux espaces avant l’astérisque ou le numéro.
+
+```- Premier article
+- Deuxième article
+- Troisième article
+    - Article en retrait
+    - Article en retrait
+- Quatrième article```
+
 
 - Premier article
 - Deuxième article
@@ -72,6 +80,18 @@ Liste imbriquée
     - Article en retrait
     - Article en retrait
 - Quatrième article
+
+##### Code incorporé
+
+Voici du code incorporé.
+
+Pour un bloc de code ; faire une tabulation ou
+~~~html
+<a href=“#”>Du code</a>
+~~~
+
+<a href="#">Du code</a>
+
 
 
 

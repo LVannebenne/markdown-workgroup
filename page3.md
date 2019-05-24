@@ -1,4 +1,4 @@
-## Les titres
+### Les titres
 Il existe deux syntaxes différentes pour les titres :
 * La méthode par **soulignement**
 * La méthode par **dièses** (#)
@@ -23,7 +23,7 @@ Le = équivaut au titre 1 alors que le - équivaut au titre 2.
     ## Titre 2
 
 
-## Les tableaux
+### Les tableaux
 Pour créer un tableau, il faut dessiner des colonnes en les entourant par des |.        
 Le nombre de colonnes est défini dans la première ligne du tableau et il faut avoir le même nombre de colonnes pour chaque ligne, même si elles sont vides !     
 La première ligne sera l'en-tête.     
@@ -40,6 +40,7 @@ Si un seul : est présent sur la droite, le texte s'alignera à droite.
 
 | En-tête 1            | En-tête 2             | En-tête 3           |
 |:---------------------|:---------------------:|--------------------:|
+|Texte aligné          |Texte                  |Texte                |
 |à gauche              |      au centre        |             à droite|
 
 
@@ -55,4 +56,5 @@ Ensuite, il n'y a besoin que d'un seul - pour séparer l'en-tête du corps du ta
 
 En-tête 1 | En-tête 2 | En-tête 3
 -|:-: |-:
-à gauche|**gras + centré** |*droite + italique*
+Texte| Texte| Texte à
+à gauche|**gras et centré** |*droite et italique*

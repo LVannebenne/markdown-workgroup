@@ -311,10 +311,7 @@ Pour créer une liste des tâches, il faut insérer un espace et le faire suivre
 - [ ] pull request
 
 
-##### Couleur de texte
 
-
-<p color:blue">Du texte en couleur bleu</p>
  
 
 

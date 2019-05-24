@@ -38,8 +38,39 @@ Exemples:
 
 Vous pouvez organiser les éléments en listes ordonnées et non ordonnées.
 
-Listes Ordonnées
+##### Listes Ordonnées
 
-Pour créer une liste ordonnée, ajoutez des éléments de ligne avec des nombres suivis de points. Les numéros ne doivent pas nécessairement être dans l’ordre numérique, mais la liste doit commencer par le numéro un
+Pour créer une liste ordonnée, ajoutez des éléments de ligne avec des nombres suivis de points. Les numéros ne doivent pas nécessairement être dans l’ordre numérique, mais la liste doit commencer par le numéro un.
+
+1. Premier article
+2. Deuxième élément
+3. Troisième article
+4. Quatrième point
+
+##### Listes non ordonnées
+
+Pour créer une liste non ordonnée, ajoutez des tirets (-), des astérisques (*) ou des signes plus (+) devant les éléments de campagne. Indenter un ou plusieurs éléments pour créer une liste imbriquée.
+
+- Premier article	
+- Deuxième article
+- Troisième item
+- Quatrième item
+
+* Premier article
+* Deuxième élément
+* Troisième article
+* Quatrième article
+
+Liste imbriquée:
+
+- Premier article
+- Deuxième article
+- Troisième item
+    - Article en retrait
+    - Article en retrait
+- Quatrième item
+
+
+
 
 

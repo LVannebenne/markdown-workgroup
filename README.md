@@ -2,7 +2,7 @@ Synthèse et Syntaxe : Markdown (README)
 ===========================
 
 Ce travail de groupe a été réalisé le vendredi 24 mai 2019 lors de la formation professionnelle BeCode Liège situé au Pôle Image de Liège, 36 Rue de Mulhouse à 4020 Liège.
-Les participants impliqués font partie de la promotion Hamilton 2.12. Aucun participant n'a été blessé ou maltraité lors de ce processus(sauf par Git). 
+Les participants impliqués font partie de la promotion Hamilton 2.12. Aucun participant n'a été blessé ou maltraité lors de ce processus ou presque..(sauf par Git). 
 
 ## Objectifs du travail de groupe
 

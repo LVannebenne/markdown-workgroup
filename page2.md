@@ -30,7 +30,7 @@ Exemples:
     gras = **gras**
     italique gras = ***italique gras***
     b̶a̶r̶r̶é̶ = ~~barré~~
-    souligné = __souligné__
+    s͟o͟u͟l͟i͟g͟n͟é͟ = __souligné__
     italique souligné = __*italique souligné*__
     gras souligné = __**gras souligné**__
 

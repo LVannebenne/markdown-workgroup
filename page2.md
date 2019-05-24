@@ -12,7 +12,8 @@ Il existe plusieurs niveaux hiéarchique de titres allant de 1 à l'infini mais 
 
 Première méthode, on le fait précéder du nombre de # correspondant au niveau du titre que l'on souhaite afficher: ### Title 1, #### Titre 4.
 
-Deuxième méthode, le balisage <h1> : <h1>Titre 1</h1> <h4>Titre  4</h4>
+Deuxième méthode, le balisage <>.
+    <h1>Titre 1</h1> <h4>Titre  4</h4>
 
 
 #### Les paragraphes

@@ -1,4 +1,4 @@
-| [Table des matières](tablematiere.md) | [Historique](page1.md#petite-histoire-de-markdown) | [Cas d'utilisation](page1.md#utilisation) | [Syntaxe](page2.md#Syntaxe) | [Format](page2#Format) | [Listes](page3.md#Listes) | [Titres](page3.md#Titres) | [Tableaux](page3.md#Tableaux) | [Liens](page3.md#Liens) | [Images](page3.md#Images) |
+| [Table des matières](tablematiere.md) | [Historique](page1.md#petite-histoire-de-markdown) | [Cas d'utilisation](page1.md#utilisation) | [Syntaxe](page2.md#Syntaxe) | [Format](page2#Format) | [Listes](page2.md#Listes) | [Titres](page3.md#Titres) | [Tableaux](page3.md#Tableaux) | [Liens](page4.md#Liens) | [Images](page4.md#Images) |
 
 ## Syntaxe (Partie 3)
 

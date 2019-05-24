@@ -1,6 +1,6 @@
 # Table des matières
 
-* [Historique]
+* [Historique](markdown-workgroup/page1.md#Historique)
 * [Cas d'utilisation]
 * [Syntaxe]
     * [Format]

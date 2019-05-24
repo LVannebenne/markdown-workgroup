@@ -16,13 +16,13 @@ Pour afficher un paragraphe, sautez deux lignes et rédigez votre texte. Un seul
 Pour mettre en évidence un texte ou l'entoure de *, ~, ou _ selon le changement que l'on souhaite apporter.
 
 
-    italique = *italique*
-    gras = **gras**
-    italique gras = ***italique gras***
-    b̶a̶r̶r̶é̶ = ~~barré~~
-    s͟o͟u͟l͟i͟g͟n͟é͟ = __souligné__
-    italique souligné = __*italique souligné*__
-    gras souligné = __**gras souligné**__
+italique = *italique*
+gras = **gras**
+italique gras = ***italique gras***
+b̶a̶r̶r̶é̶ = ~~barré~~
+s͟o͟u͟l͟i͟g͟n͟é͟ = __souligné__
+italique souligné = __*italique souligné*__
+gras souligné = __**gras souligné**__
 
 
 ##### Blocs de citation

@@ -15,13 +15,13 @@ Les participants impliqués font partie de la promotion Hamilton 2.12. Aucun par
 
 Parce qu'on nous a obligé ! (C'est la faute de Leny...)
 
-## Qui a participé ? 
+## Qui a participé ?    
 
 * Méloé Scavezzoni
 * Simon Jolet
 * Cédric Kévers
 * Lindsay Vannebenne
 
-Commencez-donc par la [Table des matières...](tablematieres.md)
+Commencez-donc par la [Table des matières...](tableMatieres.md)
 
 

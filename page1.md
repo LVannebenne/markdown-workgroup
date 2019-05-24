@@ -1,4 +1,4 @@
-| [Table des matières](tableMatières.md) | [Historique](page1.md#PetiteHistoiredeMarkdown) | [Cas d'utilisation]( page1.md#Utilisation)
+| [Table des matières](tableMatières.md) | [Historique](page1.md#PetiteHistoiredeMarkdown) | [Cas d'utilisation]( page1.md#Utilisation) | [Syntaxe](page2.md) | [Format](page2.md) | [Listes](page2.md) | [Titres](page3.md) | [Tableaux](page3.md) | [Liens](page4.md) | [Images](page4.md) |
 
 
 

@@ -24,7 +24,7 @@ Pour afficher un paragraphe on utilise le balisage <p>: <p>Un paragraph</p>
 
 Pour mettre en évidence un texte ou l'entoure de *, ~, ou _ selon le changement que l'on souhaite apporter.
 
-Exemles:
+Exemples:
 
     italique = *italique*
     gras = **gras**
@@ -33,5 +33,13 @@ Exemles:
     souligné = __souligné__
     italique souligné = __*italique souligné*__
     gras souligné = __**gras souligné**__
+
+#### Des listes
+
+Vous pouvez organiser les éléments en listes ordonnées et non ordonnées.
+
+Listes Ordonnées
+
+Pour créer une liste ordonnée, ajoutez des éléments de ligne avec des nombres suivis de points. Les numéros ne doivent pas nécessairement être dans l’ordre numérique, mais la liste doit commencer par le numéro un
 
 

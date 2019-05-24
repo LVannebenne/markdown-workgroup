@@ -2,11 +2,11 @@ page2
 
 ### FORMAT
 
-Il existe deux syntaxes pour les titres. Le résultat sera le même quelque soit la méthode employée. Essayez simplement d'en choisir une et de vous y tenir afin de  rester cohérent.
+Il existe deux syntaxes pour les titres. Le résultat sera le même quelque soit la méthode employée. Essayez simplement d'en choisir une et de vous y tenir afin de rester cohérent.
 
 #### les titres.
 
-Il existe plusieur niveau hiéarchique de titres allant de 1 à l'infini mais on se limite généralement à 6 niveaux, H1 étant le titre le plus important.
+Il existe plusieurs niveaux hiéarchique de titres allant de 1 à l'infini mais on se limite généralement à 6 niveaux, H1 étant le titre le plus important.
 
 ##### Méthode de déclaration d'un titre.
 
@@ -17,8 +17,8 @@ Deuxième méthode, le balisage <h1> : <h1>Titre 1</h1> <h4>Titre  4</h4>
 
 #### Les paragraphes
 
-Pour afficher un paragraphe, sautez deux ligne et de taper son texte. Un seul saut de ligne correspond à un retour chariot (retour à la ligne) et pas à un changement de paragraphe.
-Pour afficher un paragraphe on utilise le balisage <p>: <p>Un paragraph</p>
+Pour afficher un paragraphe, sautez deux lignes et rédigez votre texte. Un seul saut de ligne correspond à un retour chariot (retour à la ligne) et non pas à un changement de paragraphe.
+Pour afficher un paragraphe on utilise le balisage <p>: <p>Un paragraphe</p>
 
 #### Mise en forme du text
 
@@ -65,10 +65,10 @@ Liste imbriquée:
 
 - Premier article
 - Deuxième article
-- Troisième item
+- Troisième article
     - Article en retrait
     - Article en retrait
-- Quatrième item
+- Quatrième article
 
 
 

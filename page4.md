@@ -9,3 +9,20 @@ Il est également possible mais facultatif d'ajouter un titre, tout de suite apr
 Exemple :
 
     [Texte Affiché](Votre_URL "Titre, facultatif")
+
+Résultat :
+
+[Texte Affiché](http://www.google.com "Ceci est un titre")
+
+### Images
+
+Pour afficher des images, statiques ou dynamiques telles que la balise <img> en HTML, la syntaxe est très similaire aux liens, excepté la présence d'un point d'exclamation au début de la balise.
+
+Exemple :
+
+    ![Texte alternatif](URL_de_l'image "Titre, facultatif")
+
+Résultat : 
+
+![Une image statique](https://memegenerator.net/img/instances/68413696/markdown-for-what.jpg "Lil' John's Markdown")
+![Une image dynamique](https://media.giphy.com/media/g68Za3jPzVJ04/giphy.gif "Coding...")

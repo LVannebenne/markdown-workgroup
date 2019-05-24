@@ -20,20 +20,15 @@ italique = *italique*
 gras = **gras**
 italique gras = ***italique gras***
 b̶a̶r̶r̶é̶ = ~~barré~~
-s͟o͟u͟l͟i͟g͟n͟é͟ = __souligné__
-italique souligné = __*italique souligné*__
-gras souligné = __**gras souligné**__
 
 
 ##### Blocs de citation
 
 Tapez un chevron fermant > ensuite une espace et le texte du paragraphe.
 
-Voici un exemple de texte normal.
-
 > Voici un exemple de texte en bloc de citation et en paragraphe avec indentation. Le décalage à gauche persiste tant qu'on fait des retours chariot.
 
-    > Voici un exemple de texte en bloc de citation et second paragraphe avec indentation. Le décalage à gauche persiste tant qu'on fait des retours chariot.
+>> Voici un exemple de texte en bloc de citation avec deux chevrons fermants.
 
 Voici un exemple de retour en texte normal.
 

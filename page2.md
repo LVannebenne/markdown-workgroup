@@ -73,7 +73,9 @@ Liste imbriquée
     - Article en retrait
 - Quatrième article
 
+##### Citation
 
+Pour afficher une citation il suffit de placer son texte entre ``` ```Une citation.```
 
 
 

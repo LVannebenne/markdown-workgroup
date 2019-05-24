@@ -90,15 +90,19 @@ Pour créer une liste ordonnée, ajoutez des éléments de ligne avec des nombre
 
 Pour créer une liste non ordonnée, ajoutez des tirets (-), des astérisques (*) ou des signes plus (+) devant les éléments de campagne. Indenter un ou plusieurs éléments pour créer une liste imbriquée
 
+```
 - Premier article	
 - Deuxième article
 - Troisième article
 - Quatrième article
-
+```
+```
 * Premier article
 * Deuxième article
 * Troisième article
 * Quatrième article
+```
+
 * Premier article
 * Deuxième article
 * Troisième article

@@ -110,8 +110,8 @@ Pour créer une liste non ordonnée, ajoutez des tirets (-), des astérisques (*
 ```
 * Premier article
 * Deuxième article
-* Troisième article
-* Quatrième article
+
+
 
 Liste imbriquée
 
@@ -142,6 +142,16 @@ Pour un bloc de code ; faire une tabulation ou
 ~~~
 
 <a href="#">Du code</a>
+
+##### Checkbox
+
+Aujourd'hui, nous livrons une amélioration à notre pipeline Markdown afin de prendre en charge les listes de tâches. Les listes de tâches sont des listes avec des éléments marqués comme [] ou [x] (incomplet ou complet). Par exemple:
+
+- [] un élément de la liste de tâches
+- syntaxe de liste [] requise
+- [] formatage ** normal **, @ments, # 1234 refs
+- [] incomplet
+- [x] terminé
 
 
 

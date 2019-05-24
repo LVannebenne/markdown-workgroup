@@ -19,7 +19,8 @@ Deuxième méthode, le balisage <>.
 #### Les paragraphes
 
 Pour afficher un paragraphe, sautez deux lignes et rédigez votre texte. Un seul saut de ligne correspond à un retour chariot (retour à la ligne) et non pas à un changement de paragraphe.
-Pour afficher un paragraphe on utilise le balisage <p>: <p>Un paragraphe</p>
+Pour afficher un paragraphe on utilise le balisage 
+    <p>: <p>Un paragraphe</p>
 
 #### Mise en forme du text
 

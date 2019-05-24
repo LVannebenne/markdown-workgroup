@@ -50,7 +50,7 @@ Ensuite, il n'y a besoin que d'un seul - pour séparer l'en-tête du corps du ta
 
     En-tête 1 | En-tête 2 | En-tête 3
     - | :-: | -:
-    Texte à gauche    | **Texte en gras et centré** |     *Texte à droite et en italique*
+    Texte à gauche| **Texte en gras et centré** |*Texte à droite et en italique*
 
 
 En-tête 1 | En-tête 2 | En-tête 3

@@ -20,4 +20,5 @@ Un autre avantage de *Markdown*, du fait que le résulat sera exporté en *HTML*
 
 
 En général, les documents sont enregistré avec l'extension .md ou .markdown .
-![](
+
+![Now let's get ready to LEARN](https://memegenerator.net/img/instances/53358119/now-lets-get-ready-to-learn.jpg)

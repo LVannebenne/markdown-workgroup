@@ -33,14 +33,14 @@ Si la ligne - est entourée par deux :, le texte sera aligné au centre.
 Si un seul : est présent sur la droite, le texte s'alignera à droite.   
 
 
-    | En-tête 1             | En-tête 2              | En-tête 3             |
-    | --------------------- |:---------------------: | --------------------: |
-    | Texte aligné à gauche | Texte aligné au centre | Texte aligné à droite |
+    | En-tête 1              | En-tête 2              | En-tête 3             |
+    | :--------------------- |:---------------------: | --------------------: |
+    | Texte aligné à gauche  | Texte aligné au centre | Texte aligné à droite |
 
 
-| En-tête 1             | En-tête 2              | En-tête 3             |
-| --------------------- |:---------------------: | --------------------: |
-| à gauche              | au centre              | à droite              |
+| En-tête 1              | En-tête 2              | En-tête 3             |
+| :--------------------- |:---------------------: | --------------------: |
+|à gauche                |      au centre         |               à droite|
 
 
 Cependant, bien que cette manière de faire soit plus lisible en mode édition, les | en début et en fin de ligne sont optionnels.   
@@ -50,7 +50,7 @@ Ensuite, il n'y a besoin que d'un seul - pour séparer l'en-tête du corps du ta
 
     En-tête 1 | En-tête 2 | En-tête 3
     - | :-: | -:
-    Texte à gauche | **Texte en gras et centré** | *Texte à droite et en italique*
+    Texte à gauche    | **Texte en gras et centré** |     *Texte à droite et en italique*
 
 
 En-tête 1 | En-tête 2 | En-tête 3

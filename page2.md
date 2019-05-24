@@ -8,9 +8,44 @@ Il existe deux syntaxes pour les titres. Le résultat sera le même quelque soit
 #### Les paragraphes
 
 Pour afficher un paragraphe, sautez deux lignes et rédigez votre texte. Un seul saut de ligne correspond à un retour chariot (retour à la ligne) et non pas à un changement de paragraphe.
+
+
 Pour afficher un paragraphe on utilise le balisage ```<p>```
 
 ``` <p>Un paragraphe</p>```
+
+##### Saut de ligne simple
+
+Effectuer un saut de ligne simple dans votre texte markdown n’aura aucun effet quand vous l'exporter en HTML.
+Sauf si vous terminez votre ligne par un double espace (ou plus que ça).
+Un retour chariot sera alors exporté.
+
+Vous taper:
+
+Ligne sans espace à la fin
+Ligne avec 2 espaces à la fin  
+Troisième ligne
+
+Vous obtenez le Résultat affiché dans le navigateur comme sui:
+
+Ligne sans espace à la fin Ligne avec 2 espaces à la fin
+Troisième ligne
+
+Terminer une ligne avec deux ou plusieurs espaces:
+La première ligne se termine par trois espace après la virgule, la deuxième ligne fini par un point final.
+
+Par exemple vous taper:
+
+Les roses sont rouges,   
+les violettes sont bleues.
+
+Vous obtenez le Résultat affiché dans le navigateur comme sui:
+
+Les roses sont rouges,
+les violettes sont bleues.
+
+En résumer:
+Pour effectuer un saut de ligne à l'intérieur d'un paragraphe il faut introduire 2 ou davantage de caractères espaces à la fin de la ligne (avant le saut à la ligne).
 
 #### Mise en forme du text
 

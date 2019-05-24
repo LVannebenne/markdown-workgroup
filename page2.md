@@ -143,11 +143,14 @@ Pour un bloc de code ; faire une tabulation ou
 
 <a href="#">Du code</a>
 
-##### CheckboxTo create a task list, preface list items with a regular space character followed by [ ]. To mark a task as complete, use [x].
+##### Checkbox
+Pour créer une liste des tâches, il faut insérer un espace et le faire suivre de [ ] , pour cocher une case il faite faire espace [x]
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+
+
+- [x] Format titre
+- [ ] Push un commit à GitHub
+- [ ] pull request
 
 
 

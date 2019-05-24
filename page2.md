@@ -25,6 +25,19 @@ Pour mettre en évidence un texte ou l'entoure de *, ~, ou _ selon le changement
     italique souligné = __*italique souligné*__
     gras souligné = __**gras souligné**__
 
+
+##### Blocs de citation
+
+Tapez un chevron fermant > ensuite une espace et le texte du paragraphe.
+
+Voici un exemple de texte normal.
+
+> Voici un exemple de texte en bloc de citation et en paragraphe avec indentation. Le décalage à gauche persiste tant qu'on fait des retours chariot.
+
+> Voici un exemple de texte en bloc de citation et second paragraphe avec indentation. Le décalage à gauche persiste tant qu'on fait des retours chariot.
+
+Voici un exemple de retour en texte normal.
+
 #### Des listes
 
 Vous pouvez organiser les éléments en listes ordonnées et non ordonnées.

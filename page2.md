@@ -1,10 +1,14 @@
-page2
+| [Table des matières](tableMatieres.md) | [Historique](page1.md#petite-histoire-de-markdown) | [Cas d'utilisation](page1.md#utilisation) | [Syntaxe](page2.md#Syntaxe) | [Format](page2#Format) | [Listes](page2.md#Listes) | [Titres](page3.md#Titres) | [Tableaux](page3.md#Tableaux) | [Liens](page4.md#Liens) | [Images](page4.md#Images) |
 
 ### FORMAT
+
+Il existe deux syntaxes pour les titres. Le résultat sera le même quelque soit la méthode employée. Essayez simplement d'en choisir une et de vous y tenir afin de rester cohérent.
+
 
 #### Les paragraphes
 
 Pour afficher un paragraphe, sautez deux lignes et rédigez votre texte. Un seul saut de ligne correspond à un retour chariot (retour à la ligne) et non pas à un changement de paragraphe.
+
 
 
 #### Mise en forme du texte
@@ -43,7 +47,6 @@ Pour afficher du code en tant que tel, voici deux solutions :
 ~~~html
 <a href=“#”>Du code</a>
 ~~~
-
 donne : 
 
 <a href="#">Du code</a>
@@ -115,6 +118,3 @@ Pour créer une liste des tâches, il faut insérer un espace et le faire suivre
 - [x] Format titre
 - [ ] Push un commit à GitHub
 - [ ] pull request
-
-
-

@@ -23,7 +23,7 @@ Un retour chariot sera alors exporté.
 Vous taper:
 
 Ligne sans espace à la fin
-Ligne avec 2 espaces à la fin  
+Ligne avec 2 espaces à la fin 
 Troisième ligne
 
 Vous obtenez le Résultat affiché dans le navigateur comme sui:
@@ -36,7 +36,7 @@ La première ligne se termine par trois espace après la virgule, la deuxième l
 
 Par exemple vous taper:
 
-Les roses sont rouges,   
+Les roses sont rouges,
 les violettes sont bleues.
 
 Vous obtenez le Résultat affiché dans le navigateur comme sui:
@@ -88,11 +88,9 @@ Pour créer une liste ordonnée, ajoutez des éléments de ligne avec des nombre
 
 ##### Listes non ordonnées
 
-Pour créer une liste non ordonnée, ajoutez des tirets (-), des astérisques (*) ou des signes plus (+) devant les éléments de campagne. Indenter un ou plusieurs éléments pour créer une liste imbriquée.
+Pour créer une liste non ordonnée, ajoutez des tirets (-), des astérisques (*) ou des signes plus (+) devant les éléments de campagne. Indenter un ou plusieurs éléments pour créer une liste imbriquée
 
-
-
-```- Premier article	
+- Premier article	
 - Deuxième article
 - Troisième article
 - Quatrième article```
@@ -114,12 +112,12 @@ Liste imbriquée
 * Premier niveau de cette liste.
 * Pour créer un second niveau, ajoutez deux espaces avant l’astérisque ou le numéro.
 
-```- Premier article
+- Premier article
 - Deuxième article
 - Troisième article
     - Article en retrait
     - Article en retrait
-- Quatrième article```
+- Quatrième article
 
 
 - Premier article

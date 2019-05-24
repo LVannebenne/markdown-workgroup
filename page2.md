@@ -102,6 +102,7 @@ Pour créer une liste non ordonnée, ajoutez des tirets (-), des astérisques (*
 * Troisième article
 * Quatrième article
 ```
+```
 * Premier article
 - Deuxième article
 + Troisième article

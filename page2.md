@@ -10,23 +10,24 @@ Il existe plusieurs niveaux hiéarchique de titres allant de 1 à l'infini mais 
 
 ##### Méthode de déclaration d'un titre.
 
-Première méthode, on le fait précéder du nombre de # correspondant au niveau du titre que l'on souhaite afficher: ### Title 1, #### Titre 4.
+Première méthode, on le fait précéder du nombre de # correspondant au niveau du titre que l'on souhaite afficher
 
-Deuxième méthode, le balisage <>.
-    <h1>Titre 1</h1> <h4>Titre  4</h4>
+ ### Title 1, #### Titre 4.
+
+Deuxième méthode, le balisage <> ```<h1>Titre 1</h1> <h4>Titre  4</h4>```
 
 
 #### Les paragraphes
 
 Pour afficher un paragraphe, sautez deux lignes et rédigez votre texte. Un seul saut de ligne correspond à un retour chariot (retour à la ligne) et non pas à un changement de paragraphe.
-Pour afficher un paragraphe on utilise le balisage 
-    <p>: <p>Un paragraphe</p>
+Pour afficher un paragraphe on utilise le balisage <p>
+
+ <p>Un paragraphe</p>
 
 #### Mise en forme du text
 
 Pour mettre en évidence un texte ou l'entoure de *, ~, ou _ selon le changement que l'on souhaite apporter.
 
-Exemples:
 
     italique = *italique*
     gras = **gras**
@@ -63,7 +64,7 @@ Pour créer une liste non ordonnée, ajoutez des tirets (-), des astérisques (*
 * Troisième article
 * Quatrième article
 
-Liste imbriquée:
+Liste imbriquée
 
 - Premier article
 - Deuxième article

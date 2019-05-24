@@ -16,7 +16,7 @@ Du fait que le format n'a jamais été standardisé, il dispose de nombreuses im
 Utilisation
 -----------
 Le but de Markdown est que ce soit **lisible** sans même utiliser un interpréteur en mode texte.
-C'est un langage facile d'accès et facilement visualisable avant d'être converti dans sa version de **"présentation"**.   
+C'est un langage facile d'accès et facilement visualisable avant d'être converti dans sa version de **"présentation"**.     
 Un autre avantage de *Markdown*, du fait que le résulat sera exporté en *HTML* est que ce langage accepte les balises *HTML*, pour pouvoir quand même faire des animations, intégrer des vidéos et d'autres fonctionnalités non présentes dans *Markdown*.
 
 
